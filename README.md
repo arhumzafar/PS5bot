@@ -18,10 +18,10 @@ To run the code, **be sure to enter your address and payment info into the appro
 
 <br>
 <br>
-## Dependencies
-- [Python](https://www.python.org/)
-- [Selenium](https://selenium-python.readthedocs.io/installation.html)
-- [Chrome Driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-
+## Dev Tools
+### Installments
+* [Python](https://www.python.org/)
+* [Selenium](https://selenium-python.readthedocs.io/installation.html)
+* [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 
