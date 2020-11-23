@@ -14,10 +14,6 @@ If the site crashes, the code will simply stop. (*You'll be able to tell when th
 Currently, this bot was built to purchase the PS5 digital version.
 To run the code, **be sure to enter your address and payment info into the appropriate fields in each .py file.**
 
-<br>
-<br>
-
-
 ## Dev Tools
 ### Dependencies
 * [Python](https://www.python.org/)
