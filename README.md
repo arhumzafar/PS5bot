@@ -15,7 +15,6 @@ Currently, this bot was built to purchase the PS5 digital version.
 To run the code, **be sure to enter your address and payment info into the appropriate fields in each .py file.**
 
 ### Dependencies
-(*you'll need these!*)
 * [Python](https://www.python.org/)
 * [Selenium](https://selenium-python.readthedocs.io/installation.html)
 * [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
@@ -23,7 +22,7 @@ To run the code, **be sure to enter your address and payment info into the appro
 
 <br>
 <br>
-thanks, and good luck buying!
+good luck buying!
 <br>
 <br>
 -az
