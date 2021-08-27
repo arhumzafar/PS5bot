@@ -25,12 +25,12 @@ def order():
     myFirstName = 'Arhum'
     myLastName = 'Zafar'
     myEmail = 'arhum10@yahoo.coms'
-    myAddress = '5246 S 76th St Unit C322'
+    myAddress = '1600 Pennsylvania Ave
     myPhone = '2623447889'
-    myCreditCardNum = '4867961218352711'
-    myCreditExpireMonth = '11'
-    myCreditExpireYear = '25'
-    myCVV = '215'
+    myCreditCardNum = 'you wish'
+    myCreditExpireMonth = '07'
+    myCreditExpireYear = '04'
+    myCVV = '123'
 
     #ADDS PS5 TO CART AND GOES TO CHECKOUT
     clickButton(addToCart)
