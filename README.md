@@ -1,7 +1,7 @@
 # PS5bot
 
 ### Revised in August 2023
-Added support to get the Spiderman PS5 from console.
+Added support to get the Spiderman PS5 from BestBuy.
 
 
 
