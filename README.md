@@ -1,6 +1,11 @@
 # PS5bot
 
-### Arhum Zafar - November 2020
+### Revised in August 2023
+Added support to get the Spiderman PS5 from console.
+
+
+
+### Arhum Zafar - November 2021
 This is my first attempt at making a PS5 bot to purchase from Walmart.
 
 <br>
